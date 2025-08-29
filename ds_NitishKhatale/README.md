@@ -1,8 +1,11 @@
-# Trader Behavior vs Market Sentiment
+## 🚀 Google Colab Notebook
+You can view the full notebook here:  
+[🔗 Open in Google Colab](https://colab.research.google.com/drive/1JSSsvsdHE2u38vRAnzRVEXvvC06QA4FY?usp=sharing)
+#  Trader Behavior vs Market Sentiment
 
-**Candidate:** NitishKhatale
-
-Structure:
+**Candidate:** NitishKhatale  
+---
+###  Project Structure
 ```
 ds_NitishKhatale/
 ├── notebook_1.ipynb
